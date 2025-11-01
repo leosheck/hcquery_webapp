@@ -1,0 +1,1 @@
+Image: 075_ro0817_f6_OSC-1.jpg, Probability HCQ toxicity: 0.9996
